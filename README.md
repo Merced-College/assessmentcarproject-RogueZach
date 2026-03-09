@@ -98,40 +98,6 @@ Show found car object(s)
 
 Exit
 
-✅ Project B — “Year + Color Explorer”
-Your searches (choose one of these)
-Search by Year Range (startYear–endYear inclusive) OR
-
-Search by Color (case-insensitive exact match)
-
-Your sort should match the field you chose to search.
-Menu for Project B
-Sort
-
-Search by Year Range OR
-
-Search by Color
-
-Show found car object(s)
-
-Exit
-
-✅ Project C — “Model Search + Multi-Key Sort”
-Your searches (choose one of these)
-Search by Model (case-insensitive contains search, e.g., “civic” matches “Civic LX”) OR
-
-Search by Mileage Threshold (find cars with mileage >= user value)
-
-Your sort should match the field you chose to search.
-Menu for Project C
-Sort
-
-Search by Model (contains) OR
-
-Search by Mileage Threshold
-
-Show found car object(s)
-Exit
 
 Submission
 Push your repo to GitHub Classroom. Your program must run in Codespaces.
