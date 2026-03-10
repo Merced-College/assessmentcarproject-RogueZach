@@ -79,8 +79,9 @@ stats
 
 exit
 
-Choose ONE Project Option - one field to sort and search for Car objects
-✅ Project A — “Brand + Efficiency Finder”
+<><><><><><><><><>
+
+Project A — “Brand + Efficiency Finder”
 Your searches (choose one of these)
 Search by Brand (case-insensitive exact match) OR
 
